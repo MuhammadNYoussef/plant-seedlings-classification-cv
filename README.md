@@ -5,9 +5,10 @@ This project focuses on the application of computer vision techniques and neural
 ---
 
 ### Team Members:
-@MuhammadNYoussef<br>
-@Rolahossam<br>
-@fawziafaraag<br>
+[@MuhammadNYoussef](https://github.com/MuhammadNYoussef)<br>
+[@Rolahossam](https://github.com/Rolahossam)<br>
+[@fawziafaraag](https://github.com/fawziafaraag)<br>
+
 ---
 
 ### Dataset Classes
