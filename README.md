@@ -19,13 +19,15 @@ This project focuses on the application of computer vision techniques and neural
 
 ### EfficientNet Accuracy:
 
-<table><tbody><tr><td><figure class="image"><img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/377c1d750fb3f0a61b60807621faf7ac479a8e13471b81cc.png" srcset="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/377c1d750fb3f0a61b60807621faf7ac479a8e13471b81cc.png/w_138 138w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/377c1d750fb3f0a61b60807621faf7ac479a8e13471b81cc.png/w_218 218w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/377c1d750fb3f0a61b60807621faf7ac479a8e13471b81cc.png/w_298 298w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/377c1d750fb3f0a61b60807621faf7ac479a8e13471b81cc.png/w_378 378w" sizes="100vw" width="378"></figure></td><td><figure class="image"><img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/743f94c9db9fd4b6f7024890238f8e3cd091d7315b391f85.png" srcset="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/743f94c9db9fd4b6f7024890238f8e3cd091d7315b391f85.png/w_132 132w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/743f94c9db9fd4b6f7024890238f8e3cd091d7315b391f85.png/w_212 212w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/743f94c9db9fd4b6f7024890238f8e3cd091d7315b391f85.png/w_292 292w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/743f94c9db9fd4b6f7024890238f8e3cd091d7315b391f85.png/w_372 372w" sizes="100vw" width="372"></figure></td></tr></tbody></table>
+<table><tbody><tr><td><figure class="image"><img src="https://i.imgur.com/MdV3iX7.png" sizes="100vw" width="378">
+
+</figure></td><td><figure class="image"><img src="https://i.imgur.com/B8SOjpM.png" sizes="100vw" width="372"></figure></td></tr></tbody></table>
 
 ---
 
 ### Custom CNN Accuracy:
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/370c3b7fc987295f2eb1f3cf5520a28b55dab374219a3835.png)
+![](https://i.imgur.com/FaixToZ.png)
 
 ---
 
